@@ -10,6 +10,6 @@ public class Main {
         bush.mario();
         textBasedRPG = new Game();
         textBasedRPG.runRPG();
-
+        System.out.println("Dumb");
         }
     }
